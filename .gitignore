@@ -137,4 +137,9 @@ dmypy.json
 # pipenv
 Pipfile.lock
 
+# 测试文件
 test.py
+
+# pyinstaller打包文件夹
+build
+dist

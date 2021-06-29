@@ -1,3 +1,3 @@
-def init_menu():
-    """导入功能"""
+def load_menu():
+    """加载目录"""
     import menu.pdf
